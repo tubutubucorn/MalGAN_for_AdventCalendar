@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 def make_used_api_dataframe_with_malware_file(file, api_list):
     used_api_dict = {api:[0] for api in api_list}
     
