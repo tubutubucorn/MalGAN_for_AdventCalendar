@@ -9,3 +9,5 @@
 | tensorflow     | 1.11.0      | 
 | Keras       | 2.2.4        | 
 | scikit-learn       | 0.20.0        | 
+| numpy       | 1.15.3        | 
+| pandas       | 0.23.4        | 
